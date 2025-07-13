@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Cadastro Hotelzinho</title>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+    <h1>Cadastro</h1>
+
+    <form>
+        <label>Nome da Criança:</label>
+        <input type="text" id="nomeCrianca"><br>
+
+        <label>Data de Nascimento da Criança:</label>
+        <input type="date" id="dataNascimento"><br>
+
+        <label>Nome do Responsável:</label>
+        <input type="text" id="nomeResponsavel"><br>
+
+        <label>Telefone:</label>
+        <input type="text" id="telefone"><br>
+
+        <label>Informações de Saúde (alergias, etc.):</label>
+        <input type="text" id="infoAdicionais"><br>
+
+        <button type="button" onclick="adicionarNaTabela()">Cadastrar Criança</button>
+    </form>
+
+    <table id="tabela">
+        <thead>
+            <tr>
+                <th>Data/Hora</th>
+                <th>Nome da Criança</th>
+                <th>Data de Nascimento</th>
+                <th>Responsável</th>
+                <th>Telefone</th>
+                <th>Informações</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <script src="Java.js"></script>
+</body>
+</html>
