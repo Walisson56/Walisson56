@@ -12,7 +12,7 @@ Sou apaixonado por marketing, tecnologia e empreendedorismo. Com foco em tráfeg
     <img 
       alt="Instagram" 
       title="Me siga no Instagram" 
-      src="https://img.shields.io/badge/@walisson.eduardo-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      src="https://img.shields.io/badge/@walissongestor-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     />
   </a>
   <a href="https://github.com/Walisson56">
@@ -56,6 +56,6 @@ Sou apaixonado por marketing, tecnologia e empreendedorismo. Com foco em tráfeg
     align="left" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalissonEduardo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walisson56&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
